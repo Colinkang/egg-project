@@ -12,7 +12,8 @@
   "author": "matrix",
   "license": "MIT",
   "dependencies": {
-    "egg": "^2.7.1"
+    "egg": "^2.7.1",
+    "egg-validate": "^1.0.0"
   },
   "devDependencies": {
     "egg-bin": "^4.7.0"
