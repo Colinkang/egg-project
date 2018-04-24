@@ -14,6 +14,7 @@ const createRule = {
 class UController extends Controller {
 
     async info(ctx) {
+        console.log(11111,app,23333);
         ctx.body = {
             name: `hello ${ctx.params.id}`,
         };
